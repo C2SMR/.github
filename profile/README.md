@@ -4,6 +4,8 @@ This is the C2SMR organisation.
 
 Here is a little documentation of the projects
 
+[NOTION](https://silent-turquoise-817.notion.site/public-C2SMR-96cfe5504c7f4cefa3fa0ede10975adc?pvs=25)
+
 ---
 
 ## Table of Contents
