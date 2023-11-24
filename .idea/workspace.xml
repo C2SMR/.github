@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d86239e5-b03f-4b7d-8e58-5fd4e209af9b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profile/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/profile/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +32,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalet/C2SMR/.github&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalet/C2SMR/web&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -50,7 +51,9 @@
       <updated>1700154420457</updated>
       <workItem from="1700154421599" duration="2135000" />
       <workItem from="1700213828452" duration="5240000" />
-      <workItem from="1700737290345" duration="57000" />
+      <workItem from="1700737290345" duration="91000" />
+      <workItem from="1700748237744" duration="99000" />
+      <workItem from="1700818911411" duration="103000" />
     </task>
     <servers />
   </component>

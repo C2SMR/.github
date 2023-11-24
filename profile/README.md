@@ -16,6 +16,7 @@ Here is a little documentation of the projects
 - [Detector.min](#detectormin)
 - [Detector.all](#detectorall)
 - [Detector](#detector)
+- [Make_dataset_with_raspberrypi](#make_dataset_with_raspberrypi)
 - [Add new sites](#add-new-sites)
 
 ---
@@ -264,6 +265,34 @@ docker compse up --build
 
 --- 
 
+## make_dataset_with_raspberrypi
+
+This project is for making dataset with Raspberry Pi with Opencv
+
+## Techno
+
+![](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=for-the-badge&logo=Python)
+
+## Launch
+
+```bash
+py main.py
+```
+
+## Lint
+
+```bash
+py -m flake8
+```
+
+## Parameters
+
+- `time_sleep`: time to sleep between each image capture
+
+
+
+---
+
 ## Add new sites
 
 No functional project at this moment but you can add new sites in the bdd with datagrip for example
@@ -274,4 +303,3 @@ No functional project at this moment but you can add new sites in the bdd with d
   - add new line with CITY and null values
 - in Warnings 
   - add new line with CITY first HI alert and Green Color (0)
-
