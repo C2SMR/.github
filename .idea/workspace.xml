@@ -32,7 +32,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalet/C2SMR/web&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalet/C2SMR/detector&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -53,7 +53,9 @@
       <workItem from="1700213828452" duration="5240000" />
       <workItem from="1700737290345" duration="91000" />
       <workItem from="1700748237744" duration="99000" />
-      <workItem from="1700818911411" duration="103000" />
+      <workItem from="1700818911411" duration="129000" />
+      <workItem from="1700819115340" duration="28000" />
+      <workItem from="1701341739166" duration="162000" />
     </task>
     <servers />
   </component>

@@ -17,6 +17,7 @@ Here is a little documentation of the projects
 - [Detector.all](#detectorall)
 - [Detector](#detector)
 - [Make_dataset_with_raspberrypi](#make_dataset_with_raspberrypi)
+- [Camera engin](#camera-engin)
 - [Add new sites](#add-new-sites)
 
 ---
@@ -206,7 +207,7 @@ docker compse up --build
 
 ## Detector
 
-This project is the default detector for youtube scrapper or raspberry pi camera for only one site
+This project is the detector for picture capture by raspberry pi
 
 ### Env
 
@@ -288,6 +289,31 @@ py -m flake8
 ## Parameters
 
 - `time_sleep`: time to sleep between each image capture
+
+---
+
+## Camera engin
+
+This project run on raspberry pi, capture one frame from camera and send it to server.<br>
+We send also the picture in another way to reuse for make dataset
+
+
+## Techno
+
+![](https://img.shields.io/badge/Raspberry%20Pi-3B+-C51A4A.svg?style=for-the-badge&logo=Raspberry-Pi)
+![](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=for-the-badge&logo=Python)
+
+## Launch
+
+```bash
+python3 main.py {city} {api_key} {time interval}
+```
+
+## Lint
+    
+```bash
+python -m flake8
+``` 
 
 
 
